@@ -9,8 +9,7 @@ html{
 #title{
   color:   #FF5733 
 }
-  */ comments */
-  this is coding to set up the margins and sizes
+
 #container{
   margin-left: 32px;
   display: flex;
@@ -43,4 +42,12 @@ html{
 
 #image{
   justify-content: center
+}
+
+#wording{
+  font-size: 20px
+}
+
+#wording2{
+  font-size: 24px
 }
